@@ -1,16 +1,20 @@
-# color_picker
+# 🎨 Color Picker App
 
-A new Flutter project.
+A simple Flutter application build with Flutter Framework.
 
 ## Getting Started
+A simple Flutter application that allows users to pick a color and instantly apply it to multiple UI elements.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features:
+- Tap to pick a color
+- Instant visual updates on colored squares
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏠 Home Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/cb2638fa-d046-43a5-a5bc-f6789760a08d)
+
+![Image](https://github.com/user-attachments/assets/e525345a-0d90-4c75-a856-3ab946265f1a)
+
+![Image](https://github.com/user-attachments/assets/c6638143-abec-4f78-bd77-2fc0c9ab863c)
