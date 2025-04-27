@@ -13,8 +13,11 @@ A simple Flutter application that allows users to pick a color and instantly app
 
 ## 🏠 Home Screen
 
-![Image](https://github.com/user-attachments/assets/cb2638fa-d046-43a5-a5bc-f6789760a08d)
+<img src="https://github.com/user-attachments/assets/cb2638fa-d046-43a5-a5bc-f6789760a08d" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/e525345a-0d90-4c75-a856-3ab946265f1a)
+<img src="https://github.com/user-attachments/assets/e525345a-0d90-4c75-a856-3ab946265f1a" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/c6638143-abec-4f78-bd77-2fc0c9ab863c)
+<img src="https://github.com/user-attachments/assets/c6638143-abec-4f78-bd77-2fc0c9ab863c" width="300" height="700" />
+<br>
